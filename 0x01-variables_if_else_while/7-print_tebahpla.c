@@ -8,6 +8,7 @@
 int main(void)
 {
 	char alphabets = 'z';
+
 	while (alphabets >= 'a')
 	{
 		putchar(alphabets);
